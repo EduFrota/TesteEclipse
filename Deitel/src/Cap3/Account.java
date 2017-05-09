@@ -3,6 +3,7 @@ package Cap3;
 public class Account {
 	private double balance;
     private String name;
+    private String Data;
     
     
     public Account(String name){
